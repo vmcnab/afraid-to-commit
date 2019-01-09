@@ -155,7 +155,6 @@ DjangoVillage in Orvieto, 14th June 2014
 * Gioele
 * Christian Barra (@christianbarra) https://github.com/barrachri
 * Luca Ippoliti https://github.com/lucaippo
-* @joke2k (https://github.com/joke2k)
 * Domenico Testa (@domtes)
 * Alessio
 * Diego Magrini (http://github.com/magrinidiego)
@@ -261,6 +260,10 @@ PyCon UK in Coventry, 22nd September 2013
 * Karim Lameer https://github.com/klameer
 * John Medley <john.medley@zephirlidar.com>
 
+Dutch Django Association Sprint in Amsterdam, 22nd February 2014
+----------------------------------------------------------------
+* Stomme Poes
+
 DjangoCon US in Chicago, 2nd September 2013
 -------------------------------------------
 
@@ -363,3 +366,4 @@ I followed the tutorial online
 * Leticia Ulloa
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
+* Gonzo
